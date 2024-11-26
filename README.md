@@ -51,3 +51,6 @@
 </p>
 
 [![An image of @Jprerna04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Jprerna04)](https://holopin.io/@Jprerna04)
+
+![](https://github-profile-trophy.vercel.app/?username=Jprerna04&theme=onedark)
+
