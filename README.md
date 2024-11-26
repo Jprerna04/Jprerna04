@@ -46,5 +46,8 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45" height="45"> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="45" height="45"/>
+
           
 </p>
+
+[![An image of @Jprerna04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Jprerna04)](https://holopin.io/@Jprerna04)
